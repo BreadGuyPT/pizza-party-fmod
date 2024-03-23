@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{cc1ba999-632b-46db-97f4-e22db26035e5}">
+	<object class="AudioFile" id="{0b7cdae8-bcb4-46a4-a5dc-939c0cf52bed}">
 		<property name="assetPath">
 			<value>glucose_getaway.wav</value>
 		</property>

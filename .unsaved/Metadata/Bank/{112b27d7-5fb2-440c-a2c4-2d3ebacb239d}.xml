@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="Bank" id="{3b98126d-ad1e-47e7-b916-629d1cd052ea}">
+	<object class="Bank" id="{112b27d7-5fb2-440c-a2c4-2d3ebacb239d}">
 		<property name="name">
-			<value>ptt-Music</value>
+			<value>PTT-Music</value>
 		</property>
 		<relationship name="folder">
 			<destination>{d07c369d-ef47-4531-b66d-81dfe2f915c5}</destination>
