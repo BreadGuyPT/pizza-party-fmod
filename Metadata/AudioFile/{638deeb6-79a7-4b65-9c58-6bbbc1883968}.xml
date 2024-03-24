@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{638deeb6-79a7-4b65-9c58-6bbbc1883968}">
+		<property name="assetPath">
+			<value>freefallin_escape.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>156.0845351473923</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b6d1dee9-0976-4d87-b0af-f6ba4ed06e1f}</destination>
+		</relationship>
+	</object>
+</objects>

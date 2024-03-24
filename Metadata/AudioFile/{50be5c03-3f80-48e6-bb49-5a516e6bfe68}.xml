@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{50be5c03-3f80-48e6-bb49-5a516e6bfe68}">
+		<property name="assetPath">
+			<value>sewer_escape.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>166.835375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b6d1dee9-0976-4d87-b0af-f6ba4ed06e1f}</destination>
+		</relationship>
+	</object>
+</objects>

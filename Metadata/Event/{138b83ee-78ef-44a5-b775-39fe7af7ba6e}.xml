@@ -5,13 +5,13 @@
 			<value>Red Light 1</value>
 		</property>
 		<property name="name">
-			<value>pizzatime_vigi</value>
+			<value>pizzatime_vigi_old</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{9bb003be-60a8-47bd-8ea8-502b4a1b961e}</destination>
+			<destination>{1169678d-96f4-4a19-a1c1-6c1f5d7c175a}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{c6067d0c-148d-494c-bff1-46648c1571dc}</destination>
@@ -65,7 +65,7 @@
 	<object class="MarkerTrack" id="{6bd4f090-7061-4227-996c-9fc0a9e23f1a}" />
 	<object class="GroupTrack" id="{7c7bc4e4-0d75-46c1-b29d-13b90b021751}">
 		<relationship name="modules">
-			<destination>{ef50beee-a3e3-4e0c-a35f-8adfa0f79bfd}</destination>
+			<destination>{4635e583-357e-4306-8a97-acf1386cbbe0}</destination>
 		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{673c68b0-c659-46a3-aede-e2b2608f7d54}</destination>
@@ -73,7 +73,7 @@
 	</object>
 	<object class="Timeline" id="{a69fc4b5-e6f2-4ee2-9799-32f07c05b846}">
 		<relationship name="modules">
-			<destination>{ef50beee-a3e3-4e0c-a35f-8adfa0f79bfd}</destination>
+			<destination>{4635e583-357e-4306-8a97-acf1386cbbe0}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{5e24df0e-234d-4656-a342-1c82f2f0a420}</destination>
@@ -97,12 +97,12 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c5ef20e8-1de1-42fb-a440-ac64bec55eaf}" />
-	<object class="SingleSound" id="{ef50beee-a3e3-4e0c-a35f-8adfa0f79bfd}">
+	<object class="SingleSound" id="{4635e583-357e-4306-8a97-acf1386cbbe0}">
 		<property name="length">
 			<value>101.352</value>
 		</property>
 		<relationship name="audioFile">
-			<destination>{02298a47-fdca-49e5-bdbc-d36e14aef42d}</destination>
+			<destination>{27260c4d-4fc4-498c-a84d-3f169842461d}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{673c68b0-c659-46a3-aede-e2b2608f7d54}">
