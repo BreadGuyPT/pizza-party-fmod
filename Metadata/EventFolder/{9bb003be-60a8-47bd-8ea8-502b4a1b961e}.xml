@@ -5,7 +5,7 @@
 			<value>escape_themes</value>
 		</property>
 		<relationship name="folder">
-			<destination>{c6da25ea-af29-4820-8bc7-045c1d30aefb}</destination>
+			<destination>{e026e709-cd5c-495f-80ce-5d0143449eaf}</destination>
 		</relationship>
 	</object>
 </objects>
