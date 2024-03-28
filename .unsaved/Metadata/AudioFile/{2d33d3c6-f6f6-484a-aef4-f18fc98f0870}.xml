@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2d33d3c6-f6f6-484a-aef4-f18fc98f0870}">
+		<property name="assetPath">
+			<value>pillar_johns_revenge.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>244.94399999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b6d1dee9-0976-4d87-b0af-f6ba4ed06e1f}</destination>
+		</relationship>
+	</object>
+</objects>
