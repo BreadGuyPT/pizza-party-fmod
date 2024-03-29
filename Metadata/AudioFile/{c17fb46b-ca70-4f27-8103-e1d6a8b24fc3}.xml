@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{13090143-0a12-4126-a8fa-812c5515fda4}">
+	<object class="AudioFile" id="{c17fb46b-ca70-4f27-8103-e1d6a8b24fc3}">
 		<property name="assetPath">
-			<value>space_escape.wav</value>
+			<value>beach_escape.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
