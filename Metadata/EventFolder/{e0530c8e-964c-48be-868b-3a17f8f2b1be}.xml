@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{e0530c8e-964c-48be-868b-3a17f8f2b1be}">
+		<property name="name">
+			<value>ctops</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9bb003be-60a8-47bd-8ea8-502b4a1b961e}</destination>
+		</relationship>
+	</object>
+</objects>

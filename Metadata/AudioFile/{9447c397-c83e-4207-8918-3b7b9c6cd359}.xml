@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9447c397-c83e-4207-8918-3b7b9c6cd359}">
+		<property name="assetPath">
+			<value>distasteful_old.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>164.06399999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b6d1dee9-0976-4d87-b0af-f6ba4ed06e1f}</destination>
+		</relationship>
+	</object>
+</objects>
